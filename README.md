@@ -1,4 +1,4 @@
 Veja o nosso site!!
-Jogar para aprender: uma solução criativa para aprendermos com games, se tornando uma forma muito mais criativa
+Jogar para aprender: uma solução criativa para aprendermos com games, se tornando uma forma muito mais fácil e divertida
 🎮🎮🎮🎮🎮🎮🎮
 https://tetecadeia.github.io/Jogos-educacao/
